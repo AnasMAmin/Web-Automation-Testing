@@ -29,7 +29,7 @@ Selenium WebDriver is the primary tool used for automating browser interactions:
   ```java
 
 
-#### Dynamic Locator Example
+-  **Dynamic Locator Example**
 
 ```java
 String xpath = "//div[@class='section']//button[text()='Submit']";
@@ -37,7 +37,7 @@ WebElement submitButton = driver.findElement(By.xpath(xpath));
 submitButton.click();
   ```
 
-#### Handling Multiple Elements
+-  **Handling Multiple Elements**
 ```java
 List<WebElement> elements = driver.findElements(By.className("item"));
 for (WebElement element : elements) {

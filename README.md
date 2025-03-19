@@ -2,7 +2,7 @@
 
 This project demonstrates how **Selenium** is used to automate web interactions and validate test results with the **TestNG** framework. It includes functionalities like locating web elements, interacting with them, and running end-to-end validations.
 
-![Project Screenshot](./images/project_overview.png) <!-- Add your screenshot path here -->
+![Project Screenshot](baseTests.PNG) <!-- Add your screenshot path here -->
 
 ---
 
